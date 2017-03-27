@@ -576,8 +576,8 @@
               "family": "et-line"
             }
           },
-          "title1": "1200",
-          "subtitle1": "Kcal",
+          "title1": "CLASSIC",
+          "subtitle1": "Koszulka klasyczna",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">36.00 PLN</a>",
           "media2": {
@@ -591,8 +591,8 @@
               "family": "et-line"
             }
           },
-          "title2": "1500",
-          "subtitle2": "Kcal",
+          "title2": "POLO",
+          "subtitle2": "Koszulka polo",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">40.00 PLN</a> ",
           "media3": {
@@ -606,8 +606,8 @@
               "family": "et-line"
             }
           },
-          "title3": "1800",
-          "subtitle3": "Kcal",
+          "title3": "V-NECK",
+          "subtitle3": "Koszulka v-neck",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">43.00 PLN</a>",
           "media4": {
@@ -621,8 +621,8 @@
               "family": "et-line"
             }
           },
-          "title4": "2000",
-          "subtitle4": "Kcal",
+          "title4": "TANK",
+          "subtitle4": "koszulka tank-top",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">45.00 PLN</a>   ",
           "media5": {
@@ -636,8 +636,8 @@
               "family": "et-line"
             }
           },
-          "title5": "2500",
-          "subtitle5": "Kcal&nbsp;",
+          "title5": "LONG",
+          "subtitle5": "koszulka longsleeve",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">50.00 PLN</a> ",
           "media6": {
@@ -651,8 +651,8 @@
               "family": "et-line"
             }
           },
-          "title6": "3000",
-          "subtitle6": "Kcal",
+          "title6": "VIP",
+          "subtitle6": "Koszulka premium",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">55.00 PLN</a>"
         },
